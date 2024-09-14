@@ -1,8 +1,5 @@
 # Real State App
-
 #### I remade this app for learning.
-
-###### this app created by : https://youtube.com/playlist?list=PLw6Y5u47CYq6KUSFOumqVFZHdMRADJOtK&si=wNLclwEr9qFfxf7F
 
 ## Preview :
 
